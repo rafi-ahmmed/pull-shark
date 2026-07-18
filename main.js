@@ -1,2 +1,3 @@
 console.log("Hello world")
-conat myName = "Siyam"
+const myName = "Siyam"
+let name = "rafi"
