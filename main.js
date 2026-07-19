@@ -4,5 +4,5 @@ let name = "rafi"
 
 
 const myFun = ()=>{
-  
+  console.log("my Siyam")
 }
