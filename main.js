@@ -11,3 +11,7 @@ const myFun = ()=>{
 const urFn = ()=>{
   console.log("Hello World")
 }
+
+const print = ()=>{
+  console.log("Print")
+}
